@@ -1,0 +1,14 @@
+{
+    "name": "suhanyujie/parse-route",
+    "description": "解析路由",
+    "authors": [
+        {
+            "name": "suhanyujie",
+            "email": "suhanyujie@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "nikic/php-parser": "^4.7"
+    }
+}
